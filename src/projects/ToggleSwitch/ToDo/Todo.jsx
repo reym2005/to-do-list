@@ -1,4 +1,4 @@
-import './Todo.css';
+import './ToDo.css';
 import { useEffect, useState } from 'react';
 import { MdCheck, MdDeleteForever } from "react-icons/md";
 import { ToDoForm } from './ToDoForm';
